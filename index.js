@@ -228,7 +228,13 @@ console.log(artists[8].name);
 function getArtistByIndex(id, name) {
     /* code here */
   }
-  
+  function getArtistByIndex(id, name) {
+    let id = 3;
+    let name = Diego Rivera;
+    return 'The artist at index 2 is Diego Rivera'
+      }
+    
+    getArtistByIndex();
   /**
 
 
@@ -244,6 +250,7 @@ function removeArtist(/*code here*/) {
     /* code here */
   }
   
+
   /**
 
 
@@ -251,6 +258,7 @@ function removeArtist(/*code here*/) {
 
 function lotsOfArt(/* Code here */){
 
+  function lotsOfArt(paintings)
     /* Code here */
 
   }
